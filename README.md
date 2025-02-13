@@ -1,6 +1,6 @@
-# SecondApp
+# Counter App
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
+Run `npm install` to pull in all the dependencies first.
 
 ## Development server
 
